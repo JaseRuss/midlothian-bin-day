@@ -1,0 +1,17 @@
+# Gradle / Android build output
+.gradle/
+build/
+app/build/
+local.properties
+*.apk
+*.aab
+captures/
+.cxx/
+
+# IDE
+.idea/
+*.iml
+
+# Real council PDFs contain people's addresses - never commit them
+testpdfs/
+*.pdf
